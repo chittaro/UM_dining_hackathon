@@ -1,0 +1,424 @@
+,Dining_Hall,Course,Menu_Item,Serving_Size,Calories,Total_Fat,Saturated_Fat,Trans_Fat,Cholesterol,Sodium,Total_Carbohydrate,Dietary_Fiber,Sugars,Protein
+0,east-quad,Breakfast,Oatmeal,253,183,3,1,0.0,0,3,33,5,1,6
+1,east-quad,Breakfast,Scrambled Eggs,84,163,12,4,0.0,336,116,0,0,0,11
+2,east-quad,Breakfast,Scrambled Tempeh,113,197,8,2,0.0,0,222,14,6,1,18
+3,east-quad,Breakfast,Chicken Sausage Patties,43,81,6,2,0.0,41,273,0,0,0,6
+4,east-quad,Breakfast,Vegetable Fried Rice,100,115,2,1,0.0,38,115,19,1,2,4
+5,east-quad,Breakfast,Patatas Bravas,85,159,11,2,0.0,4,178,15,1,3,1
+6,east-quad,Breakfast,Kale Saute,85,69,4,0,0.0,0,111,8,2,0,3
+7,east-quad,Breakfast,Dutch Waffle,128,721,58,13,0.0,20,350,43,3,12,4
+8,east-quad,Breakfast,Sausage Gravy,57,73,4,2,0.0,12,178,5,0,3,4
+9,east-quad,Breakfast,Biscuits,62,185,8,5,0.0,0,576,25,1,2,3
+10,east-quad,Breakfast,Egg and Cheese Croissant,101,274,16,8,0.0,227,340,20,1,5,11
+11,east-quad,Breakfast,Egg & Cheese English Muffin Sandwich,124,243,10,4,0.0,201,474,25,1,2,12
+12,east-quad,Breakfast,Cinnamon Sugar Donuts,94,398,23,10,0.0,15,570,44,1,19,4
+13,east-quad,Breakfast,Cappuccino Chocolate Chip Muffins,54,202,9,3,0.0,18,145,27,1,17,2
+14,east-quad,Breakfast,Chocolate Chocolate Chip Muffins,54,176,8,2,0.0,17,172,24,1,15,2
+15,east-quad,Lunch,Hummus,28,53,4,1,0.0,0,92,3,1,0,1
+16,east-quad,Lunch,Fresh Pico De Gallo,28,5,0,0,0.0,0,2,1,0,1,0
+17,east-quad,Lunch,East Carolina Slaw,57,26,0,0,0.0,0,157,7,1,6,0
+18,east-quad,Lunch,Macaroni Salad,113,211,14,2,0.0,94,471,16,1,2,5
+19,east-quad,Lunch,Three Bean Chili,198,126,2,0,0.0,0,449,22,6,7,5
+20,east-quad,Lunch,Loaded Baked Potato Soup,227,422,32,19,1.0,104,414,26,2,6,11
+21,east-quad,Lunch,Italian Local Chicken,95,220,16,4,0.0,67,146,1,0,0,17
+22,east-quad,Lunch,Redskin Potato Salad,113,202,15,2,0.0,7,367,16,2,1,2
+23,east-quad,Lunch,Tofu Vietnamese Chili Stir Fry,119,116,6,1,0.0,1,640,8,2,4,9
+24,east-quad,Lunch,Long Grain Rice,74,119,0,0,0.0,0,184,26,0,0,3
+25,east-quad,Lunch,Lime Wedges,10,3,0,0,0.0,0,0,1,0,0,0
+26,east-quad,Lunch,Black Bean Vegetarian Patty,96,150,5,1,0.0,5,321,16,5,2,14
+27,east-quad,Lunch,Sliced Pepper Jack Cheese,28,101,8,5,0.0,25,192,1,0,0,6
+28,east-quad,Lunch,Black Bean and Corn Salad,57,50,0,0,0.0,0,65,9,2,2,2
+29,east-quad,Lunch,6 In Sub Bun,65,151,2,1,0.0,0,261,27,1,1,6
+30,east-quad,Lunch,Seasoned Green Beans,113,53,2,0,0.0,0,197,9,3,4,2
+31,east-quad,Lunch,Totchos,227,498,36,11,0.0,33,1028,31,5,3,12
+32,east-quad,Lunch,Grilled Halal Honey Lime Chicken,95,112,3,0,0.0,40,174,1,0,1,19
+33,east-quad,Lunch,Mexican Rice,113,272,0,0,0.0,0,180,59,0,1,6
+34,east-quad,Lunch,"Corn with Cumin, Chili, and Tomato",113,99,2,0,0.0,0,223,19,2,7,3
+35,east-quad,Lunch,Roasted Zucchini,170,53,4,1,0.0,0,64,5,2,4,2
+36,east-quad,Lunch,Cheese Bread,51,207,8,4,0.0,21,375,22,1,1,9
+37,east-quad,Lunch,Pepperoni Pizza,113,298,10,5,0.0,28,647,33,2,2,12
+38,east-quad,Lunch,Cheese Pizza,105,269,8,4,0.0,21,540,33,2,2,11
+39,east-quad,Lunch,Corn Dogs,113,273,14,4,0.0,46,709,27,1,9,10
+40,east-quad,Lunch,Homestyle Chicken Tenders,85,289,19,4,0.0,0,509,13,1,0,16
+41,east-quad,Lunch,French Fries,113,190,10,1,0.0,0,470,25,1,1,1
+42,east-quad,Lunch,Chocolate Chunk Cookies,35,152,7,3,0.0,5,117,21,1,13,2
+43,east-quad,Lunch,Strawberry Torte,135,564,31,18,1.0,86,388,69,1,56,3
+44,east-quad,Lunch,Butterscotch Blondies,52,233,12,8,0.0,44,223,30,1,18,3
+45,east-quad,Lunch,Vegan Bumpy Cake,147,492,22,7,0.0,0,562,70,1,53,5
+46,east-quad,Dinner,Three Bean Chili,198,126,2,0,0.0,0,449,22,6,7,5
+47,east-quad,Dinner,Loaded Baked Potato Soup,227,422,32,19,1.0,104,414,26,2,6,11
+48,east-quad,Dinner,Naan Bread,57,170,6,1,0.0,0,454,26,1,1,4
+49,east-quad,Dinner,Lamb Vindaloo,99,126,5,1,0.0,46,227,5,1,3,15
+50,east-quad,Dinner,Basmati Rice,113,156,2,0,0.0,0,31,35,1,0,3
+51,east-quad,Dinner,Small Flour Tortillas,23,67,2,1,0.0,0,67,11,0,1,1
+52,east-quad,Dinner,Black Beans and Brown Rice,85,147,5,0,0.0,0,119,23,3,2,4
+53,east-quad,Dinner,Fresh Pico De Gallo,28,5,0,0,0.0,0,2,1,0,1,0
+54,east-quad,Dinner,Guacamole,28,66,6,1,0.0,0,113,3,2,0,1
+55,east-quad,Dinner,Black Bean Vegetarian Patty,96,150,5,1,0.0,5,321,16,5,2,14
+56,east-quad,Dinner,Sliced Pepper Jack Cheese,28,101,8,5,0.0,25,192,1,0,0,6
+57,east-quad,Dinner,Corn and Black Bean Salsa,57,35,1,0,0.0,0,101,7,2,2,1
+58,east-quad,Dinner,Sub Bun,94,217,3,1,0.0,0,384,39,1,2,8
+59,east-quad,Dinner,Seasoned Green Beans,113,53,2,0,0.0,0,197,9,3,4,2
+60,east-quad,Dinner,Totchos,227,498,36,11,0.0,33,1028,31,5,3,12
+61,east-quad,Dinner,Italian Grilled Shrimp,85,41,2,0,0.0,35,263,2,1,1,5
+62,east-quad,Dinner,Soft Polenta with Quattro Formaggi,113,145,7,5,0.0,24,226,15,1,0,6
+63,east-quad,Dinner,Zucchini and Summer Squash,113,55,4,0,0.0,0,62,4,1,3,1
+64,east-quad,Dinner,Cheese Bread,51,207,8,4,0.0,21,375,22,1,1,9
+65,east-quad,Dinner,Cheese Pizza,105,269,8,4,0.0,21,540,33,2,2,11
+66,east-quad,Dinner,Pepperoni Pizza,113,298,10,5,0.0,28,647,33,2,2,12
+67,east-quad,Dinner,Corn Dogs,113,273,14,4,0.0,46,709,27,1,9,10
+68,east-quad,Dinner,Homestyle Chicken Tenders,85,289,19,4,0.0,0,509,13,1,0,16
+69,east-quad,Dinner,French Fries,113,190,10,1,0.0,0,470,25,1,1,1
+70,east-quad,Dinner,Chocolate Chunk Cookies,35,152,7,3,0.0,5,117,21,1,13,2
+71,east-quad,Dinner,Butterscotch Blondies,52,233,12,8,0.0,44,223,30,1,18,3
+72,east-quad,Dinner,Strawberry Torte,135,564,31,18,1.0,86,388,69,1,56,3
+73,east-quad,Dinner,Vegan Bumpy Cake,147,492,22,7,0.0,0,562,70,1,53,5
+74,east-quad,Dinner,Peach Crisp,144,253,10,5,0.0,0,204,40,1,25,2
+75,markley,Breakfast,Oatmeal,253,183,3,1,0.0,0,3,33,5,1,6
+76,markley,Breakfast,Egg & Cheese English Muffin Sandwich,124,243,10,4,0.0,201,474,25,1,2,12
+77,markley,Breakfast,Pork Sausage Patty,43,179,16,6,0.0,30,284,0,0,0,6
+78,markley,Breakfast,Scrambled Eggs,84,163,12,4,0.0,336,116,0,0,0,11
+79,markley,Breakfast,Scrambled Tofu,113,157,10,2,0.0,0,231,4,2,1,13
+80,markley,Breakfast,Sauteed Vegetables,91,54,2,0,0.0,0,17,7,2,3,2
+81,markley,Breakfast,Home Fries,113,147,8,1,0.0,0,231,17,2,0,2
+82,markley,Breakfast,Blueberry Muffins,54,164,7,1,0.0,17,138,23,1,13,2
+83,markley,Breakfast,Vanilla Glazed Donuts,82,309,16,8,0.0,0,269,41,1,20,4
+84,markley,Lunch,Criss Cross Fries,113,283,20,4,2.0,0,27,23,1,1,1
+85,markley,Lunch,Roasted Broccoli,85,42,2,0,0.0,0,53,6,2,1,2
+86,markley,Lunch,Grilled Portabello Mushroom,96,112,6,1,0.0,0,11,15,1,10,1
+87,markley,Lunch,Beef Chili,227,158,5,2,0.0,14,542,21,6,8,9
+88,markley,Lunch,Beef Hot Dog,99,294,15,5,0.0,28,938,26,1,3,12
+89,markley,Lunch,Hot Dog Buns,38,88,1,0,0.0,0,193,16,1,2,4
+90,markley,Lunch,Spicy Pinto Beans,85,61,0,0,0.0,0,130,12,3,2,3
+91,markley,Lunch,Chicken Tinga,57,72,4,1,0.0,0,117,1,0,1,8
+92,markley,Lunch,Nacho Cheese Sauce,57,68,4,0,0.0,0,553,6,0,2,1
+93,markley,Lunch,Strawberry Torte,135,564,31,18,1.0,86,388,69,1,56,3
+94,markley,Lunch,Whipped Topping,7,24,2,1,0.0,6,0,1,0,1,0
+95,markley,Lunch,Caramel Sauce,14,52,2,1,0.0,7,6,9,0,9,0
+96,markley,Lunch,Chocolate Sauce,10,17,1,0,0.0,1,3,3,0,3,0
+97,markley,Lunch,Michigan Vanilla Ice Cream,65,142,8,5,0.0,30,45,16,0,13,2
+98,markley,Lunch,Butterscotch Blondies,52,233,12,8,0.0,44,223,30,1,18,3
+99,markley,Lunch,Vegan Bumpy Cake,147,492,22,7,0.0,0,562,70,1,53,5
+100,markley,Lunch,Chocolate Chunk Cookies,35,152,7,3,0.0,5,117,21,1,13,2
+101,markley,Dinner,Sweet & Sour Sauce,28,31,0,0,0.0,0,142,6,0,5,0
+102,markley,Dinner,Honey Mustard,14,28,0,0,0.0,0,128,3,0,3,0
+103,markley,Dinner,BBQ Sauce,28,55,0,0,0.0,0,228,14,0,13,0
+104,markley,Dinner,Ranch Dressing,28,101,11,2,0.0,6,247,1,0,1,1
+105,markley,Dinner,Beef Chili,227,158,5,2,0.0,14,542,21,6,8,9
+106,markley,Dinner,Criss Cross Fries,113,283,20,4,2.0,0,27,23,1,1,1
+107,markley,Dinner,Homestyle Chicken Tenders,85,289,19,4,0.0,0,509,13,1,0,16
+108,markley,Dinner,Medium Grain Rice,94,157,0,0,0.0,0,0,36,1,0,3
+109,markley,Dinner,Tofu with Yu-Xiang Sauce,113,222,14,2,0.0,0,329,12,3,5,13
+110,markley,Dinner,Penne Pasta with Meat Sauce,91,106,2,1,0.0,5,301,18,2,3,4
+111,markley,Dinner,Malawi Beef Stew,104,103,7,1,0.0,18,118,4,1,1,7
+112,markley,Dinner,Steamed Baby Carrots,113,38,0,0,0.0,0,88,10,0,5,0
+113,markley,Dinner,Butterscotch Blondies,52,233,12,8,0.0,44,223,30,1,18,3
+114,markley,Dinner,Vegan Bumpy Cake,147,492,22,7,0.0,0,562,70,1,53,5
+115,markley,Dinner,Strawberry Torte,135,564,31,18,1.0,86,388,69,1,56,3
+116,markley,Dinner,Peach Crisp,144,253,10,5,0.0,0,204,40,1,25,2
+117,markley,Dinner,Chocolate Chunk Cookies,35,152,7,3,0.0,5,117,21,1,13,2
+118,north-quad,Breakfast,Oatmeal,253,183,3,1,0.0,0,3,33,5,1,6
+119,north-quad,Breakfast,Sauteed Vegetables,91,54,2,0,0.0,0,17,7,2,3,2
+120,north-quad,Breakfast,Scrambled Tofu,113,157,10,2,0.0,0,231,4,2,1,13
+121,north-quad,Breakfast,Scrambled Eggs,84,163,12,4,0.0,336,116,0,0,0,11
+122,north-quad,Breakfast,Cinnamon Pull Apart Bread,82,304,15,10,0.0,24,471,40,0,21,3
+123,north-quad,Breakfast,Chicken Sausage Patties,43,81,6,2,0.0,41,273,0,0,0,6
+124,north-quad,Breakfast,O'Brien Potatoes,105,85,2,0,0.0,0,148,15,2,0,2
+125,north-quad,Breakfast,Chocolate Chocolate Chip Muffins,54,176,8,2,0.0,17,172,24,1,15,2
+126,north-quad,Breakfast,Apple Cinnamon Muffins,54,181,9,2,0.0,22,172,23,1,12,2
+127,north-quad,Breakfast,Assorted Mini Scones,27,97,4,2,0.0,0,85,13,0,7,1
+128,north-quad,Lunch,Herb Baked Chicken,99,155,10,3,0.0,0,150,0,0,0,16
+129,north-quad,Lunch,Balsamic Glaze,14,33,0,0,0.0,0,0,9,0,5,0
+130,north-quad,Lunch,Italian White Bean Salad,91,124,6,1,0.0,0,348,13,4,1,4
+131,north-quad,Lunch,Sauteed Vegetables,91,54,2,0,0.0,0,17,7,2,3,2
+132,north-quad,Lunch,Balsamic Marinated Seitan,94,244,20,1,0.0,0,452,4,0,1,15
+133,north-quad,Lunch,Italian White Bean Salad,91,124,6,1,0.0,0,348,13,4,1,4
+134,north-quad,Lunch,Sauteed Vegetables,91,54,2,0,0.0,0,17,7,2,3,2
+135,north-quad,Lunch,Pepperoni Flatbread Pizza,53,107,6,3,0.0,17,276,8,1,1,5
+136,north-quad,Lunch,Cheese Flatbread Pizza,49,89,5,2,0.0,13,210,8,1,1,4
+137,north-quad,Lunch,Corn Dogs,113,273,14,4,0.0,46,709,27,1,9,10
+138,north-quad,Lunch,Beef Hot Dog,99,294,15,5,0.0,28,938,26,1,3,12
+139,north-quad,Lunch,Seasoned Fries,77,176,12,2,0.0,0,147,15,1,0,2
+140,north-quad,Lunch,Pub Fried Tofu,85,246,9,2,0.0,0,78,31,2,0,11
+141,north-quad,Lunch,Seasoned Fries,77,176,12,2,0.0,0,147,15,1,0,2
+142,north-quad,Lunch,Butterscotch Blondies,52,233,12,8,0.0,44,223,30,1,18,3
+143,north-quad,Lunch,Chocolate Chunk Cookies,35,152,7,3,0.0,5,117,21,1,13,2
+144,north-quad,Dinner,Halal Greek Chicken,57,102,7,2,0.0,0,114,0,0,0,10
+145,north-quad,Dinner,Cucumber Relish,28,23,2,0,0.0,0,23,1,0,1,0
+146,north-quad,Dinner,Garlic Sauce,28,189,21,2,0.0,0,60,2,0,0,0
+147,north-quad,Dinner,Lemon Parsley Rice,113,153,0,0,0.0,0,190,33,0,1,4
+148,north-quad,Dinner,Sauteed Vegetables,91,54,2,0,0.0,0,17,7,2,3,2
+149,north-quad,Dinner,Korean Style Tempeh BBQ,71,119,3,1,0.0,0,516,12,3,4,10
+150,north-quad,Dinner,Mango Relish,57,41,1,0,0.0,0,107,8,1,7,0
+151,north-quad,Dinner,Lemon Parsley Rice,113,153,0,0,0.0,0,190,33,0,1,4
+152,north-quad,Dinner,Sauteed Vegetables,91,54,2,0,0.0,0,17,7,2,3,2
+153,north-quad,Dinner,Pepperoni Flatbread Pizza,53,107,6,3,0.0,17,276,8,1,1,5
+154,north-quad,Dinner,Cheese Flatbread Pizza,49,89,5,2,0.0,13,210,8,1,1,4
+155,north-quad,Dinner,Tempura Chicken,113,292,17,3,0.0,36,703,17,0,1,16
+156,north-quad,Dinner,Pub Fried Tofu,85,246,9,2,0.0,0,78,31,2,0,11
+157,north-quad,Dinner,Peach Crisp,144,253,10,5,0.0,0,204,40,1,25,2
+158,north-quad,Dinner,Chocolate Chunk Cookies,35,152,7,3,0.0,5,117,21,1,13,2
+159,bursley,Breakfast,Oatmeal,253,183,3,1,0.0,0,3,33,5,1,6
+160,bursley,Breakfast,Pancake Bites,25,93,5,1,0.0,15,108,13,0,4,2
+161,bursley,Breakfast,Charred Grape Tomatoes with Basil,28,7,0,0,0.0,0,14,1,0,1,0
+162,bursley,Breakfast,Bruschetta Tofu Scramble,95,134,8,1,0.0,0,265,7,2,2,11
+163,bursley,Breakfast,Chicken Sausage Patties,43,81,6,2,0.0,41,273,0,0,0,6
+164,bursley,Breakfast,Lyonnaise Potatoes,85,72,2,0,0.0,0,55,12,1,0,1
+165,bursley,Breakfast,Breakfast Fried Rice,128,225,9,3,0.0,63,510,27,0,1,9
+166,bursley,Breakfast,Scrambled Eggs,84,163,12,4,0.0,336,116,0,0,0,11
+167,bursley,Breakfast,Chocolate Chocolate Chip Muffins,54,176,8,2,0.0,17,172,24,1,15,2
+168,bursley,Breakfast,Blueberry Muffins,54,164,7,1,0.0,17,138,23,1,13,2
+169,bursley,Breakfast,Assorted Mini Danishes with Nuts,43,132,7,3,0.0,10,46,15,1,4,2
+170,bursley,Lunch,Beef Chili,227,167,5,2,0.0,15,503,21,6,7,10
+171,bursley,Lunch,Corn Chips,28,162,10,2,0.0,0,172,16,1,0,2
+172,bursley,Lunch,Shredded Cheddar Cheese,28,111,9,5,0.0,30,182,1,0,0,6
+173,bursley,Lunch,Sour Cream,28,55,6,4,0.0,15,55,2,0,2,1
+174,bursley,Lunch,Grilled Reuben,118,260,10,4,0.0,29,726,25,1,3,14
+175,bursley,Lunch,Dill Pickle Chips,28,5,0,0,0.0,0,250,0,0,1,0
+176,bursley,Lunch,Ruffles Potato Chips,28,160,10,2,2.0,0,150,15,1,1,2
+177,bursley,Lunch,Sauerkraut & Muenster Grilled Cheese,109,275,17,7,0.0,29,920,17,1,2,10
+178,bursley,Lunch,Dill Pickle Chips,28,5,0,0,0.0,0,250,0,0,1,0
+179,bursley,Lunch,Ruffles Potato Chips,28,160,10,2,2.0,0,150,15,1,1,2
+180,bursley,Lunch,Falafel Cake Power Bowl,363,346,18,3,0.0,0,650,34,10,7,13
+181,bursley,Lunch,Veggie Dog w/ Bun,99,607,22,0,0.0,0,2505,40,5,7,69
+182,bursley,Lunch,Roasted Kale,113,67,1,0,0.0,0,57,13,3,0,4
+183,bursley,Lunch,Mojito Chicken Thigh,113,223,13,4,0.0,0,394,9,0,6,20
+184,bursley,Lunch,Mango Salsa,28,15,0,0,0.0,0,0,4,0,3,0
+185,bursley,Lunch,Roasted Vegetable Medley,85,47,3,0,0.0,0,33,4,1,2,1
+186,bursley,Lunch,Cilantro Lime White Rice,85,117,0,0,0.0,0,127,26,0,1,3
+187,bursley,Lunch,Chicken Parmesan Pizza,172,410,17,10,0.0,68,819,32,2,2,26
+188,bursley,Lunch,Garlic Cheese Bread,70,222,9,5,0.0,26,372,22,1,1,9
+189,bursley,Lunch,Pepperoni Pizza,113,298,10,5,0.0,28,647,33,2,2,12
+190,bursley,Lunch,Cheese Pizza,105,269,8,4,0.0,21,540,33,2,2,11
+191,bursley,Lunch,Detroit Coney Island Hot Dog,136,406,23,10,0.0,37,1181,32,3,4,17
+192,bursley,Lunch,Homestyle Chicken Tenders,85,289,19,4,0.0,0,509,13,1,0,16
+193,bursley,Lunch,French Fries,113,190,10,1,0.0,0,470,25,1,1,1
+194,bursley,Lunch,Shrimp & Scallop Vietnamese Stir Fry,119,149,2,0,0.0,22,607,26,1,3,7
+195,bursley,Lunch,Tempeh Vietnamese Chili Stir Fry,119,194,3,1,0.0,1,600,32,4,4,10
+196,bursley,Lunch,Strawberry Torte,135,564,31,18,1.0,86,388,69,1,56,3
+197,bursley,Lunch,Blossom Cookie with Pistachios,43,192,11,5,0.0,0,126,23,1,17,1
+198,bursley,Lunch,Butterscotch Blondies,52,233,12,8,0.0,44,223,30,1,18,3
+199,bursley,Lunch,Vegan Bumpy Cake,147,492,22,7,0.0,0,562,70,1,53,5
+200,bursley,Lunch,Sugar Cookies,35,162,8,3,0.0,10,137,19,0,10,2
+201,bursley,Lunch,Chocolate Chunk Cookies,35,152,7,3,0.0,5,117,21,1,13,2
+202,bursley,Dinner,Beef Chili,227,167,5,2,0.0,15,503,21,6,7,10
+203,bursley,Dinner,Corn Chips,28,162,10,2,0.0,0,172,16,1,0,2
+204,bursley,Dinner,Shredded Cheddar Cheese,28,111,9,5,0.0,30,182,1,0,0,6
+205,bursley,Dinner,Sour Cream,28,55,6,4,0.0,15,55,2,0,2,1
+206,bursley,Dinner,Lamb Shawarma Pita,201,450,21,6,0.0,60,606,43,1,4,23
+207,bursley,Dinner,Kettle Potato Chips,28,162,11,1,0.0,0,116,13,1,1,2
+208,bursley,Dinner,Grilled Portabello Mushroom,96,112,6,1,0.0,0,11,15,1,10,1
+209,bursley,Dinner,Traditional Greek Pita,91,247,5,0,0.0,0,439,45,1,4,8
+210,bursley,Dinner,Hummus,28,53,4,1,0.0,0,92,3,1,0,1
+211,bursley,Dinner,Sliced Cucumbers,28,4,0,0,0.0,0,1,1,0,0,0
+212,bursley,Dinner,Sliced Tomatoes,43,8,0,0,0.0,0,0,2,0,1,0
+213,bursley,Dinner,Sliced Red Onions,28,1,0,0,0.0,0,0,0,0,0,0
+214,bursley,Dinner,Kettle Potato Chips,28,162,11,1,0.0,0,116,13,1,1,2
+215,bursley,Dinner,Tofu Sofritas Burrito Bowl,425,600,20,3,0.0,1,1528,80,8,5,28
+216,bursley,Dinner,Veggie Dog w/ Bun,99,607,22,0,0.0,0,2505,40,5,7,69
+217,bursley,Dinner,Roasted Kale,113,67,1,0,0.0,0,57,13,3,0,4
+218,bursley,Dinner,Taco Beef,57,141,11,4,1.0,37,232,2,0,1,9
+219,bursley,Dinner,Tortilla Chips,28,142,6,1,0.0,0,116,20,2,0,2
+220,bursley,Dinner,Fresh Pico De Gallo,28,5,0,0,0.0,0,2,1,0,1,0
+221,bursley,Dinner,Cilantro Lime White Rice,85,117,0,0,0.0,0,127,26,0,1,3
+222,bursley,Dinner,Chicken Parmesan Pizza,172,410,17,10,0.0,68,819,32,2,2,26
+223,bursley,Dinner,Garlic Cheese Bread,70,222,9,5,0.0,26,372,22,1,1,9
+224,bursley,Dinner,Pepperoni Pizza,113,298,10,5,0.0,28,647,33,2,2,12
+225,bursley,Dinner,Cheese Pizza,105,269,8,4,0.0,21,540,33,2,2,11
+226,bursley,Dinner,Detroit Coney Island Hot Dog,136,406,23,10,0.0,37,1181,32,3,4,17
+227,bursley,Dinner,Homestyle Chicken Tenders,85,289,19,4,0.0,0,509,13,1,0,16
+228,bursley,Dinner,Criss Cross Fries,113,283,20,4,2.0,0,27,23,1,1,1
+229,bursley,Dinner,Long Grain Rice,74,119,0,0,0.0,0,184,26,0,0,3
+230,bursley,Dinner,Tempeh Vietnamese Chili Stir Fry,119,194,3,1,0.0,1,600,32,4,4,10
+231,bursley,Dinner,Shrimp & Scallop Vietnamese Stir Fry,119,149,2,0,0.0,22,607,26,1,3,7
+232,bursley,Dinner,Vegan Bumpy Cake,147,492,22,7,0.0,0,562,70,1,53,5
+233,bursley,Dinner,Peach Crisp,144,253,10,5,0.0,0,204,40,1,25,2
+234,south-quad,Breakfast,Oatmeal,253,183,3,1,0.0,0,3,33,5,1,6
+235,south-quad,Breakfast,Bok Choy,136,16,0,0,0.0,0,46,2,1,1,2
+236,south-quad,Breakfast,Scrambled Tofu,113,157,10,2,0.0,0,231,4,2,1,13
+237,south-quad,Breakfast,Lyonnaise Potatoes,85,72,2,0,0.0,0,55,12,1,0,1
+238,south-quad,Breakfast,Scrambled Eggs,84,163,12,4,0.0,336,116,0,0,0,11
+239,south-quad,Breakfast,Turkey Bacon,57,110,6,2,0.0,39,441,2,0,2,11
+240,south-quad,Breakfast,Biscuits,62,185,8,5,0.0,0,576,25,1,2,3
+241,south-quad,Breakfast,Chorizo Sausage Gravy,75,91,6,2,0.0,14,207,6,0,3,4
+242,south-quad,Breakfast,Lemon Poppyseed Muffins,54,181,9,2,0.0,17,138,23,1,13,2
+243,south-quad,Breakfast,Chocolate Chocolate Chip Muffins,54,176,8,2,0.0,17,172,24,1,15,2
+244,south-quad,Breakfast,Apple Fritter Donut,85,278,13,6,0.0,0,220,37,1,16,4
+245,south-quad,Lunch,Smoked Salmon Chowder w/Bacon,247,410,32,17,0.0,100,795,22,2,4,13
+246,south-quad,Lunch,Southwestern Bean Soup,261,59,1,0,0.0,0,188,12,3,4,2
+247,south-quad,Lunch,Corn Dogs,113,273,14,4,0.0,46,709,27,1,9,10
+248,south-quad,Lunch,Garlic Parmesan Fries,113,386,33,14,1.0,51,1135,20,1,1,5
+249,south-quad,Lunch,Tofu Tacos Filling,113,169,11,2,0.0,0,88,4,3,1,14
+250,south-quad,Lunch,Street Taco Salad,113,106,9,1,0.0,0,115,6,2,3,1
+251,south-quad,Lunch,Tortilla Chips,28,142,6,1,0.0,0,116,20,2,0,2
+252,south-quad,Lunch,Spicy Black Beans,85,65,0,0,0.0,0,218,12,3,2,4
+253,south-quad,Lunch,Crispy Veggie Patty on White Bun,123,240,8,1,0.0,0,460,32,3,4,12
+254,south-quad,Lunch,Peas and Carrots,113,66,0,0,0.0,0,27,13,4,5,3
+255,south-quad,Lunch,Red Lentil Rice Pilaf,91,147,5,2,0.0,0,166,24,1,1,3
+256,south-quad,Lunch,Chicken Tinga,57,72,4,1,0.0,0,117,1,0,1,8
+257,south-quad,Lunch,Tortilla Chips,28,142,6,1,0.0,0,116,20,2,0,2
+258,south-quad,Lunch,Spicy Black Beans,85,65,0,0,0.0,0,218,12,3,2,4
+259,south-quad,Lunch,Cebollas Encurtidas,28,23,0,0,0.0,0,12,6,0,5,0
+260,south-quad,Lunch,Guacamole,28,66,6,1,0.0,0,113,3,2,0,1
+261,south-quad,Lunch,Cavatappi,50,78,0,0,0.0,0,0,16,1,1,3
+262,south-quad,Lunch,Alfredo Sauce,85,165,14,8,,41,576,6,0,3,6
+263,south-quad,Lunch,Marinara Sauce,113,64,3,0,0.0,0,345,10,2,5,2
+264,south-quad,Lunch,Coney Island Pizza,150,370,15,7,0.0,40,971,36,2,3,15
+265,south-quad,Lunch,Pepperoni Pizza,100,236,7,3,0.0,19,562,34,2,3,10
+266,south-quad,Lunch,Cheese Pizza,86,215,5,2,0.0,14,484,34,2,3,9
+267,south-quad,Lunch,Beef and Mushroom Blended Burger,120,277,13,5,1.0,73,247,15,0,2,24
+268,south-quad,Lunch,Foot Long Hot Dog w/ Bun,151,399,23,2,1.0,45,973,33,1,4,14
+269,south-quad,Lunch,Seasoned Curly Fries,113,385,31,6,0.0,0,480,27,1,1,3
+270,south-quad,Lunch,Authentic Minestrone,261,143,3,0,0.0,0,210,24,6,4,6
+271,south-quad,Lunch,Romaine Salad,57,11,0,0,0.0,0,10,2,1,1,1
+272,south-quad,Lunch,Fresh Fruit Cup,113,46,0,0,0.0,0,10,11,1,10,1
+273,south-quad,Lunch,Pretzel Bites,10,26,0,0,0.0,0,31,4,0,0,1
+274,south-quad,Lunch,Nacho Cheese Sauce,57,68,4,0,0.0,0,553,6,0,2,1
+275,south-quad,Lunch,Butterscotch Blondies,52,233,12,8,0.0,44,223,30,1,18,3
+276,south-quad,Lunch,Vegan Bumpy Cake,147,492,22,7,0.0,0,562,70,1,53,5
+277,south-quad,Lunch,Strawberry Torte,135,564,31,18,1.0,86,388,69,1,56,3
+278,south-quad,Lunch,White Chocolate Macadamia Nut Cookies,35,162,8,3,0.0,10,117,20,0,13,2
+279,south-quad,Dinner,Dinner Roll,43,119,1,0,0.0,0,178,17,1,1,3
+280,south-quad,Dinner,Smoked Salmon Chowder w/Bacon,247,410,32,17,0.0,100,795,22,2,4,13
+281,south-quad,Dinner,Southwestern Bean Soup,261,59,1,0,0.0,0,188,12,3,4,2
+282,south-quad,Dinner,Corned Beef Brisket,113,203,14,5,0.0,56,962,0,0,0,15
+283,south-quad,Dinner,Mustard Roasted Potatoes,85,97,3,0,0.0,0,144,16,2,2,2
+284,south-quad,Dinner,Roasted Brussels Sprouts,85,49,0,0,0.0,0,19,8,3,2,3
+285,south-quad,Dinner,Fried Pita Chips,57,269,15,3,0.0,0,277,28,1,2,5
+286,south-quad,Dinner,Koshari,85,59,1,0,0.0,0,180,12,1,2,2
+287,south-quad,Dinner,Cauliflower Quinoa Veggie Patty,96,114,3,0,0.0,7,390,18,4,3,7
+288,south-quad,Dinner,Peas and Carrots,113,66,0,0,0.0,0,27,13,4,5,3
+289,south-quad,Dinner,Bulgur Wheat Salad,113,164,6,1,0.0,0,943,26,4,3,4
+290,south-quad,Dinner,Italian Grilled Shrimp,85,41,2,0,0.0,35,263,2,1,1,5
+291,south-quad,Dinner,Soft Polenta with Quattro Formaggi,113,145,7,5,0.0,24,226,15,1,0,6
+292,south-quad,Dinner,Roasted Zucchini,170,53,4,1,0.0,0,64,5,2,4,2
+293,south-quad,Dinner,Cavatappi,50,78,0,0,0.0,0,0,16,1,1,3
+294,south-quad,Dinner,Alfredo Sauce,85,165,14,8,,41,576,6,0,3,6
+295,south-quad,Dinner,Marinara Sauce,57,32,1,0,0.0,0,172,5,1,3,1
+296,south-quad,Dinner,Pepperoni Pizza,100,236,7,3,0.0,19,562,34,2,3,10
+297,south-quad,Dinner,Cheese Pizza,86,215,5,2,0.0,14,484,34,2,3,9
+298,south-quad,Dinner,Mini Corndog,77,183,8,3,0.0,30,325,20,1,5,6
+299,south-quad,Dinner,Seasoned Fries,170,391,26,5,0.0,0,328,33,2,0,4
+300,south-quad,Dinner,BBQ Beef Sandwich,313,765,44,12,2.0,79,1405,61,4,15,30
+301,south-quad,Dinner,Foot Long Hot Dog w/ Bun,151,399,23,2,1.0,45,973,33,1,4,14
+302,south-quad,Dinner,Blossom Cookie with Pistachios,43,192,11,5,0.0,0,126,23,1,17,1
+303,south-quad,Dinner,Strawberry Torte,135,564,31,18,1.0,86,388,69,1,56,3
+304,south-quad,Dinner,Peach Crisp,144,253,10,5,0.0,0,204,40,1,25,2
+305,south-quad,Dinner,Vegan Bumpy Cake,147,492,22,7,0.0,0,562,70,1,53,5
+306,twigs-at-oxford,Breakfast,Breakfast Fried Rice,128,225,9,3,0.0,63,510,27,0,1,9
+307,twigs-at-oxford,Breakfast,Chicken Sausage Patties,43,81,6,2,0.0,41,273,0,0,0,6
+308,twigs-at-oxford,Breakfast,Scrambled Eggs,84,163,12,4,0.0,336,116,0,0,0,11
+309,twigs-at-oxford,Breakfast,Cinnamon Pull Apart Bread,82,304,15,10,0.0,24,471,40,0,21,3
+310,twigs-at-oxford,Breakfast,Lyonnaise Potatoes,85,72,2,0,0.0,0,55,12,1,0,1
+311,twigs-at-oxford,Breakfast,Spinach Saute,43,23,2,0,0.0,0,70,1,1,0,1
+312,twigs-at-oxford,Breakfast,Bruschetta Tofu Scramble,95,134,8,1,0.0,0,265,7,2,2,11
+313,twigs-at-oxford,Breakfast,Assorted Mini Danishes with Nuts,43,132,7,3,0.0,10,46,15,1,4,2
+314,twigs-at-oxford,Breakfast,Chocolate Chocolate Chip Muffins,54,176,8,2,0.0,17,172,24,1,15,2
+315,twigs-at-oxford,Breakfast,Cranberry Orange Muffins,57,163,7,1,0.0,24,145,23,1,14,2
+316,twigs-at-oxford,Lunch,Beef Chili,227,158,5,2,0.0,14,542,21,6,8,9
+317,twigs-at-oxford,Lunch,Homestyle Baked Chicken Tenders,113,284,14,3,0.0,0,678,17,1,0,21
+318,twigs-at-oxford,Lunch,Chicken Fried Rice,113,201,8,2,0.0,71,244,21,0,1,10
+319,twigs-at-oxford,Lunch,Roasted Zucchini,170,53,4,1,0.0,0,64,5,2,4,2
+320,twigs-at-oxford,Lunch,Spanish White Beans w/ Capers,113,140,2,0,0.0,0,198,35,18,3,11
+321,twigs-at-oxford,Lunch,Beef Nachos,163,478,26,7,0.0,33,1125,50,5,2,13
+322,twigs-at-oxford,Lunch,Mexican Rice,113,272,0,0,0.0,0,180,59,0,1,6
+323,twigs-at-oxford,Lunch,Black Beans,28,28,0,0,0.0,0,79,5,1,0,2
+324,twigs-at-oxford,Lunch,Whole Kernel Corn,113,101,1,0,0.0,0,0,20,3,8,3
+325,twigs-at-oxford,Lunch,French Fries,113,190,10,1,0.0,0,470,25,1,1,1
+326,twigs-at-oxford,Lunch,Black Bean Vegetarian Patty,96,150,5,1,0.0,5,321,16,5,2,14
+327,twigs-at-oxford,Lunch,Beef and Mushroom Blended Burger,120,277,13,5,1.0,73,247,15,0,2,24
+328,twigs-at-oxford,Lunch,Beef & Mushroom Blended Burger w/ Cheese,156,404,24,11,1.0,105,880,18,1,3,30
+329,twigs-at-oxford,Lunch,Turkey Burger on White Bun,165,303,18,4,0.0,71,686,15,0,2,19
+330,twigs-at-oxford,Lunch,Strawberry Torte,135,564,31,18,1.0,86,388,69,1,56,3
+331,twigs-at-oxford,Lunch,Monster Candy Cookies,35,152,7,3,0.0,10,117,22,0,14,2
+332,twigs-at-oxford,Lunch,Vegan Bumpy Cake,147,492,22,7,0.0,0,562,70,1,53,5
+333,twigs-at-oxford,Dinner,Beef Chili,227,158,5,2,0.0,14,542,21,6,8,9
+334,twigs-at-oxford,Dinner,Homestyle Chicken Tenders,85,289,19,4,0.0,0,509,13,1,0,16
+335,twigs-at-oxford,Dinner,Corn Dogs,113,273,14,4,0.0,46,709,27,1,9,10
+336,twigs-at-oxford,Dinner,Vegan Mushroom Risotto,85,128,1,0,0.0,0,241,26,0,2,2
+337,twigs-at-oxford,Dinner,Peas and Carrots,113,66,0,0,0.0,0,27,13,4,5,3
+338,twigs-at-oxford,Dinner,Chicken Tinga,57,72,4,1,0.0,0,117,1,0,1,8
+339,twigs-at-oxford,Dinner,Black Beans,28,28,0,0,0.0,0,79,5,1,0,2
+340,twigs-at-oxford,Dinner,Cebollas Encurtidas,28,23,0,0,0.0,0,12,6,0,5,0
+341,twigs-at-oxford,Dinner,Beef and Mushroom Blended Burger,120,277,13,5,1.0,73,247,15,0,2,24
+342,twigs-at-oxford,Dinner,Peach Crisp,144,253,10,5,0.0,0,204,40,1,25,2
+343,twigs-at-oxford,Dinner,Vegan Bumpy Cake,147,492,22,7,0.0,0,562,70,1,53,5
+344,twigs-at-oxford,Dinner,Strawberry Torte,135,564,31,18,1.0,86,388,69,1,56,3
+345,mosher-jordan,Breakfast,Oatmeal,227,164,3,1,0.0,0,3,29,4,0,6
+346,mosher-jordan,Breakfast,Carrots,113,38,0,0,0.0,0,88,10,0,5,0
+347,mosher-jordan,Breakfast,Patatas Bravas,85,159,11,2,0.0,4,178,15,1,3,1
+348,mosher-jordan,Breakfast,Bruschetta Tofu Scramble,454,640,37,6,0.0,0,1264,31,9,11,51
+349,mosher-jordan,Breakfast,Scrambled Eggs,113,220,17,5,0.0,454,156,0,0,0,15
+350,mosher-jordan,Breakfast,Cajun Andouille Sausage,57,182,15,5,0.0,40,626,3,0,1,10
+351,mosher-jordan,Breakfast,Texas French Toast,78,148,7,2,0.0,118,208,16,1,2,7
+352,mosher-jordan,Breakfast,Banana's Foster,53,196,11,7,1.0,30,0,25,0,23,0
+353,mosher-jordan,Breakfast,Chocolate Chocolate Chip Muffins,54,176,8,2,0.0,17,172,24,1,15,2
+354,mosher-jordan,Breakfast,Blueberry Muffins,54,164,7,1,0.0,17,138,23,1,13,2
+355,mosher-jordan,Breakfast,Iced Chocolate Donuts,73,299,16,8,0.0,15,276,37,1,21,3
+356,mosher-jordan,Lunch,Vegetable Rice Soup,247,85,0,0,0.0,0,236,18,2,5,2
+357,mosher-jordan,Lunch,Beef Chili,227,158,5,2,0.0,14,542,21,6,8,9
+358,mosher-jordan,Lunch,Sour Cream,28,55,6,4,0.0,15,55,2,0,2,1
+359,mosher-jordan,Lunch,Shredded Cheddar Cheese,28,111,9,5,0.0,30,182,1,0,0,6
+360,mosher-jordan,Lunch,Portabello Mushroom Ravioli,128,220,4,2,0.0,26,334,38,2,2,9
+361,mosher-jordan,Lunch,Marinara Sauce,28,16,1,0,0.0,0,86,3,1,1,1
+362,mosher-jordan,Lunch,Beef & Pork Meatballs,113,338,26,9,1.0,61,689,8,1,1,18
+363,mosher-jordan,Lunch,Parsley,28,10,0,0,0.0,0,15,2,1,0,1
+364,mosher-jordan,Lunch,Garlic Bread,43,145,8,3,0.0,0,239,17,1,2,3
+365,mosher-jordan,Lunch,Chicken Taco Meat,28,62,4,1,0.0,0,99,1,0,0,7
+366,mosher-jordan,Lunch,White Corn Tortillas,25,55,1,0,0.0,0,8,12,2,0,1
+367,mosher-jordan,Lunch,Spicy Pinto Beans,28,21,0,0,0.0,0,43,4,1,1,1
+368,mosher-jordan,Lunch,Salsa de Chile Pasilla Negro,28,15,1,0,0.0,0,15,3,1,1,1
+369,mosher-jordan,Lunch,Guacamole,28,66,6,1,0.0,0,113,3,2,0,1
+370,mosher-jordan,Lunch,Street Taco Salad,113,106,9,1,0.0,0,115,6,2,3,1
+371,mosher-jordan,Lunch,Tortilla Chips,28,142,6,1,0.0,0,116,20,2,0,2
+372,mosher-jordan,Lunch,Spicy Black Beans,28,22,0,0,0.0,0,73,4,1,1,1
+373,mosher-jordan,Lunch,Cilantro,28,7,0,0,0.0,0,13,1,1,0,1
+374,mosher-jordan,Lunch,Chicken & Dumplings,227,270,15,7,0.0,13,455,17,2,3,18
+375,mosher-jordan,Lunch,Whole Kernel Corn,28,25,0,0,0.0,0,0,5,1,2,1
+376,mosher-jordan,Lunch,BBQ Chicken Flatbread Pizza,90,201,11,5,0.0,45,498,16,1,7,11
+377,mosher-jordan,Lunch,Cheese Flatbread Pizza,49,89,5,2,0.0,13,210,8,1,1,4
+378,mosher-jordan,Lunch,Vegetable Flatbread Pizza,78,117,6,3,0.0,18,266,10,1,2,6
+379,mosher-jordan,Lunch,Beef and Mushroom Blended Burger,120,277,13,5,1.0,73,247,15,0,2,24
+380,mosher-jordan,Lunch,Beef & Mushroom Blended Burger w/ Cheese,156,404,24,11,1.0,105,880,18,1,3,30
+381,mosher-jordan,Lunch,Beef Hot Dog,99,294,15,5,0.0,28,938,26,1,3,12
+382,mosher-jordan,Lunch,Coney Island Sauce,57,47,2,1,0.0,6,308,6,1,3,3
+383,mosher-jordan,Lunch,Seasoned Fries,28,65,4,1,0.0,0,55,6,0,0,1
+384,mosher-jordan,Lunch,Vegan Artichoke Burger on White Bun,149,368,22,2,0.0,0,640,35,5,3,11
+385,mosher-jordan,Lunch,Seasoned Fries,77,176,12,2,0.0,0,147,15,1,0,2
+386,mosher-jordan,Lunch,Butterscotch Blondies,52,233,12,8,0.0,44,223,30,1,18,3
+387,mosher-jordan,Lunch,Vegan Bumpy Cake,147,492,22,7,0.0,0,562,70,1,53,5
+388,mosher-jordan,Lunch,Strawberry Torte,135,564,31,18,1.0,86,388,69,1,56,3
+389,mosher-jordan,Lunch,Monster Candy Cookies,35,152,7,3,0.0,10,117,22,0,14,2
+390,mosher-jordan,Dinner,Vegetable Rice Soup,247,85,0,0,0.0,0,236,18,2,5,2
+391,mosher-jordan,Dinner,Beef Chili,227,158,5,2,0.0,14,542,21,6,8,9
+392,mosher-jordan,Dinner,Sour Cream,28,55,6,4,0.0,15,55,2,0,2,1
+393,mosher-jordan,Dinner,Shredded Cheddar Cheese,28,111,9,5,0.0,30,182,1,0,0,6
+394,mosher-jordan,Dinner,Pork Loin with Cherry Orange Glaze,113,183,7,3,0.0,37,438,17,0,16,14
+395,mosher-jordan,Dinner,Oven Roasted Garlic Yukon Potatoes,85,110,2,0,0.0,0,85,19,2,2,2
+396,mosher-jordan,Dinner,Roasted Broccoli,85,42,2,0,0.0,0,53,6,2,1,2
+397,mosher-jordan,Dinner,Rice Noodles with Chicken and Vegetable,170,250,6,1,0.0,42,405,35,2,7,12
+398,mosher-jordan,Dinner,Chopped Green Onions,28,9,0,0,0.0,0,5,2,1,1,1
+399,mosher-jordan,Dinner,Rice Noodles w/ Edamame & Vegetables,170,244,7,1,0.0,0,232,38,5,7,9
+400,mosher-jordan,Dinner,Chopped Green Onions,28,9,0,0,0.0,0,5,2,1,1,1
+401,mosher-jordan,Dinner,Chole Masala,85,67,4,0,0.0,0,45,7,2,2,2
+402,mosher-jordan,Dinner,Basmati Rice,113,156,2,0,0.0,0,31,35,1,0,3
+403,mosher-jordan,Dinner,Mango Chutney,28,64,0,0,0.0,0,71,17,0,14,0
+404,mosher-jordan,Dinner,Cilantro,28,7,0,0,0.0,0,13,1,1,0,1
+405,mosher-jordan,Dinner,Grilled Salmon,85,108,4,1,0.0,39,64,0,0,0,17
+406,mosher-jordan,Dinner,Cilantro Lime White Rice,28,39,0,0,0.0,0,42,9,0,0,1
+407,mosher-jordan,Dinner,Roasted Zucchini,170,53,4,1,0.0,0,64,5,2,4,2
+408,mosher-jordan,Dinner,BBQ Chicken Flatbread Pizza,90,201,11,5,0.0,45,498,16,1,7,11
+409,mosher-jordan,Dinner,Cheese Flatbread Pizza,49,89,5,2,0.0,13,210,8,1,1,4
+410,mosher-jordan,Dinner,Vegetable Flatbread Pizza,78,117,6,3,0.0,18,266,10,1,2,6
+411,mosher-jordan,Dinner,Beef and Mushroom Blended Burger,120,277,13,5,1.0,73,247,15,0,2,24
+412,mosher-jordan,Dinner,Beef & Mushroom Blended Burger w/ Cheese,156,404,24,11,1.0,105,880,18,1,3,30
+413,mosher-jordan,Dinner,Beef Hot Dog,99,294,15,5,0.0,28,938,26,1,3,12
+414,mosher-jordan,Dinner,Coney Island Sauce,57,47,2,1,0.0,6,308,6,1,3,3
+415,mosher-jordan,Dinner,Seasoned Fries,28,65,4,1,0.0,0,55,6,0,0,1
+416,mosher-jordan,Dinner,Vegan Artichoke Burger on White Bun,149,368,22,2,0.0,0,640,35,5,3,11
+417,mosher-jordan,Dinner,Seasoned Fries,77,176,12,2,0.0,0,147,15,1,0,2
+418,mosher-jordan,Dinner,Strawberry Torte,135,564,31,18,1.0,86,388,69,1,56,3
+419,mosher-jordan,Dinner,Vegan Bumpy Cake,147,492,22,7,0.0,0,562,70,1,53,5
+420,mosher-jordan,Dinner,Butterscotch Blondies,52,233,12,8,0.0,44,223,30,1,18,3
+421,mosher-jordan,Dinner,Peach Crisp,144,253,10,5,0.0,0,204,40,1,25,2
+422,mosher-jordan,Dinner,Monster Candy Cookies,35,152,7,3,0.0,10,117,22,0,14,2

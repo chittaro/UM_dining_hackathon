@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang ="en">
+    <div class="p3"></div>
+<head> 
+    <title> MDining NutriStats </title>
+    <link rel="stylesheet" type="text/css" href="../static/style.css" />
+</head>
+<body>
+  <header>M-Dining NutriStats</header>
+  <div class = "master-grid">
+    
+    <div class="body">
+        <h2>choose your dining hall: </h2>
+
+        <label class="container">Alice Llyod
+            <input type="radio" name="radio" id="alice">
+            <span class="checkmark"></span>
+          </label>
+        <label class="container">East Quad
+            <input type="radio" name="radio" id="east">
+            <span class="checkmark"></span>
+          </label>
+        <label class="container">Bursley
+            <input type="radio" name="radio" id="bursley">
+            <span class="checkmark"></span>
+          </label>
+        <label class="container">Mary Markley
+            <input type="radio" name="radio" id="markley">
+            <span class="checkmark"></span>
+          </label>
+        <label class="container">North Quad
+            <input type="radio" name="radio" id="north">
+            <span class="checkmark"></span>
+          </label>
+        <label class="container">South Quad
+            <input type="radio" name="radio" id="south">
+            <span class="checkmark"></span>
+          </label>
+        <label class="container">Twigs 
+            <input type="radio" name="radio" id="twigs">
+            <span class="checkmark"></span>
+          </label>
+        <label class="container">Mosher-Jordan
+            <input type="radio" name="radio" id="mojo">
+            <span class="checkmark"></span>
+          </label>
+
+        <h2>choose your meal: </h2>
+            <label class="container2">Breakfast 
+            <input type="radio2" name="radio" id="breakfast">
+            <span class="checkmark2"></span>
+          </label>
+          <label class="container2">Lunch
+            <input type="radio2" name="radio" id="lunch">
+            <span class="checkmark2"></span>
+          </label>
+          <label class="container2">Dinner 
+            <input type="radio2" name="radio" id="dinner">
+            <span class="checkmark2"></span>
+          </label>
+
+        <h2>for which date? </h2> 
+        <input type="date" id="date"> <br></nbr></nbr>
+        <p></p>
+        <p></p>
+
+        <button class="fetch-button" type="submit">fetch nutritional data</button>
+    </div>
+    
+    <div class="body2">
+      <br>
+      <h2> STATISTICS </h2>
+      <div class = "body2-box">
+        
+        <h3 class = "first-h3">VEGAN OPTIONS</h3>
+        <p>Vegan Bumpy Cake</p>
+        <p>Vegan Artichoke Burger on White Bun</p>
+        <p>Vegan Mushroom Risotto</p>
+
+        <h3>TOP PROTEIN OPTIONS</h3>
+        <p>Veggie Dog with Bun</p>
+        <p>Bruschetta Tofu Scramble</p>
+        <p>BBQ Beef Sandwich</p>
+        <p>Beef & Mushroom Blended Burger W/ Cheese</p>
+        <p>tofy Sofritas Burrito Bowl</p>
+
+        <h3>LOWEST SUGAR OPTIONS</h3>
+        <p>Scrambled Eggs</p>
+        <p>Chicken Sausage Patties</p>
+        <p>Kale Saute</p>
+        <p>Hummus</p>
+        <p>Italian Local Chicken</p>
+
+      </div>
+
+    </div>
+
+    <div class="body3">
+      <br>
+      <h2> HEALTHIEST OPTIONS </h2>
+        <div class = "stats-box">
+          <div class = "item1">
+            <p>Oatmeal</p>
+            <img src = "../static/image_183.png" class = "nutrImg">
+          </div>
+
+          <div class = "item2">
+            <p>Scrambled Eggs</p>
+            <img src = "../static/image_163.png" class = "nutrImg">
+          </div>
+
+          <div class = "item4">
+            <p>Roasted Vegetable Medley</p>
+            <img src = "../static/image_72.png" class = "nutrImg">
+          </div>
+
+          <div class = "item5">
+            <p>Lyonnaise Potatoes</p>
+            <img src = "../static/image_67.png" class = "nutrImg">
+          </div>
+
+          <div class = "item5">
+            <p>Roasted Kale</p>
+            <img src = "../static/image_47.png" class = "nutrImg">
+          </div>
+
+        </div>
+
+    </div>
+
+  </div>
+    
+
+<script>
+
+
+let button = document.querySelector(".fetch-button");
+
+console.log("yayy1");
+
+button.addEventListener("click", function(){
+    let bursRadio = document.getElementById("bursley");
+    let aliceRadio = document.getElementById("alice");
+    let eastRadio = document.getElementById("east");
+    let twigsRadio = document.getElementById("twigs");
+    let northRadio = document.getElementById("north");
+    let southRadio = document.getElementById("south");
+    let markleyRadio = document.getElementById("markley");
+    let mojoRadio = document.getElementById("mojo");
+
+    document.querySelector(".stats-box").style.visibility = "visible";
+    document.querySelector(".body2-box").style.visibility = "visible";
+
+});
+
+</script>
+</body>
+</html>

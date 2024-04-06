@@ -96,9 +96,9 @@ def getCourseItems(dining_hall: str, course: str, menu_dict: dict, courseHTML):
 
 
 
-def getDhallItems(dining_hall_file: str, menu_dict: dict):
+def getDhallItems(path: str, dining_hall_file: str, menu_dict: dict):
     dining_hall_str = dining_hall_file.split('.')[0]
-    soup = getSoup(dining_hall_file)
+    soup = getSoup(path, dining_hall_file)
 
     menuDiv = soup.find("div", { "id": "mdining-items"})
     meals = menuDiv.find_all("h3")
@@ -113,3 +113,4 @@ def getDhallItems(dining_hall_file: str, menu_dict: dict):
 
 def makeURL(hall):
     return hall.lower().replace(" ", "-")
+

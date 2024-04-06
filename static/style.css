@@ -1,0 +1,222 @@
+h2 {
+  color: rgb(255, 255, 255)
+}
+body {
+  background-color: #effcd9;
+}
+
+header {
+  background-color: #8ba690;
+  padding: 40px;
+  font-family: "Sofia", sans-serif;
+  text-align: center;
+  font-size: 50px;
+  color: #ffffff;
+}
+
+.master-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.body {
+  float: left;
+  font-family: "Sofia", sans-serif;
+  text-align: center;
+  border-radius: 25px;
+  background: #88AB8E;
+  padding: 30px;
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+  margin: 20px;
+  width: 375px;
+  height: 550px;
+}
+
+.body2 {
+  margin: 20px;
+  font-family: "Sofia", sans-serif;
+  text-align: center;
+  background: #88AB8E;
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+  border-radius: 25px;
+}
+
+.grow:hover { 
+  transform: scale(1.1); 
+  }
+
+.body3 {
+  margin: 20px;
+  text-align: center;
+  font-family: "Sofia", sans-serif;
+  background: #88AB8E;
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+  border-radius: 25px;
+  }
+
+.p3 {
+  font-family: "Lucida Console", "", monospace;
+  }
+
+.fetch-button {
+  background-color: #77977c;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  font-size: 16px;
+  margin: 4px 2px;
+  border: 2px solid rgb(255, 255, 255);
+  border-radius: 25px;
+}
+.fetch-button:hover {
+background-color: #57715a;
+}
+
+
+
+
+/* The container */
+.container {
+  display: block;
+  position: relative;
+  padding-left: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  font-size: 15px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+/* Hide the browser's default radio button */
+.container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+/* Create a custom radio button */
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 20px;
+  width: 20px;
+  background-color: #eee;
+  border-radius: 50%;
+}
+/* On mouse-over, add a background color */
+.container:hover input ~ .checkmark {
+  background-color: #77977c;
+}
+/* When the radio button is checked, add a background */
+.container input:checked ~ .checkmark {
+  background-color: #547058;
+}
+/* Create the indicator (the dot/circle - hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+/* Show the indicator (dot/circle) when checked */
+.container input:checked ~ .checkmark:after {
+  display: block;
+}
+
+
+
+
+/* The container */
+.container2 {
+display: block;
+position: relative;
+padding-left: 10px;
+margin-bottom: 10px;
+cursor: pointer;
+font-size: 15px;
+-webkit-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+}
+/* Hide the browser's default radio button */
+.container2 input {
+position: absolute;
+opacity: 0;
+cursor: pointer;
+}
+/* Create a custom radio button */
+.checkmark2 {
+position: absolute;
+top: 0;
+left: 0;
+height: 20px;
+width: 20px;
+background-color: #eee;
+border-radius: 50%;
+}
+/* On mouse-over, add a background color */
+.container2:hover input ~ .checkmark2 {
+background-color: #77977c;
+}
+/* When the radio button is checked, add a background */
+.container2 input:checked ~ .checkmark2 {
+background-color: #547058;
+}
+/* Create the indicator (the dot/circle - hidden when not checked) */
+.checkmark2:after {
+content: "";
+position: absolute;
+display: none;
+}
+/* Show the indicator (dot/circle) when checked */
+.container2 input:checked ~ .checkmark2:after {
+display: block;
+}
+
+
+.stats-box {
+  padding: 20px;
+  margin: 20px;
+  visibility: hidden;
+  column-gap: 20px;
+}
+
+.body2-box {
+  padding: 20px;
+  margin: 20px;
+  visibility: hidden;
+  column-gap: 20px;
+}
+
+.stats-box div {
+  font-size: 20px;
+  display: flex;
+  padding: 10px;
+  margin-bottom: 20px;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #77977c;
+  border-radius: 20px;
+}
+
+.nutrImg{
+  max-width: 150px;
+  border-radius: 20px;
+}
+
+.first-h3 {
+  margin-top: 10px;
+}
+
+h3 {
+  margin-top: 50px;
+}

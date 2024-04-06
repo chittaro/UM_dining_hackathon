@@ -21,9 +21,9 @@ def getSoup(url: str) -> BeautifulSoup:
 '''
 
 # TODO: find way to automate curling process (need to update textfile every day)
-def getSoup(file: str) -> BeautifulSoup:
+def getSoup(path: str, file: str) -> BeautifulSoup:
 
-    data = open("scraping/hall_HTML/" + file, "r")
+    data = open(path + file, "r")
     bs = BeautifulSoup(data, "html.parser")
     data.close()
 
