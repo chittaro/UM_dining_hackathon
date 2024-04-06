@@ -24,7 +24,7 @@ def scoreMenu(df: pd.DataFrame, dh: str) -> dict:
 
     # Assign totals to a new column in the df
     filtered_df["Nutrition_Score"] = totals
-    filtered_df = filtered_df.sort_values(by=["Nutrition_Score"])
+    filtered_df = filtered_df.sort_values(by=["Nutrition_Score"], ascending = False)
     print(filtered_df)
 
     # Return dict
@@ -53,4 +53,3 @@ def calcScores(row: pd.Series) -> dict:
               "Total": total}
     
     return scores
-
