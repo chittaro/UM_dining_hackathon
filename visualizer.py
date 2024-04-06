@@ -68,7 +68,8 @@ def make_graph(vals: dict[str, float]):
     ax.add_patch(circ)
 
     ax.text(x = 0, y = -.5, s = round(vals["Total"], 3), ha = "center", va = "center", fontsize = "x-large", weight = "bold")
-    plt.savefig('fig.png')
+    
+    return ax
 
 
 def get_label_rotation(angle, offset):
@@ -98,4 +99,4 @@ def add_labels(angles, values, labels, offset, ax):
         ax.text(x = ang, y = val + padding, s = lab, ha = alignment, va = "center", rotation = rotation, rotation_mode = "anchor")
 
 test = {'Calories': 108, 'Trans Fat': 1, 'Sat. Fat': 0.9166666666666666, 'Sodium': 0.40740740740740744, 'Protein': 0.6296296296296297, 'Fiber': 1, 'Total': 3.9537037037037037}
-make_graph(test)
+fig = make_graph(test)
