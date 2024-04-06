@@ -4,6 +4,7 @@ import importlib
 import pandas as pd
 import os
 
+
 diction = getStartDict()
 halls = getDHalls()
 
