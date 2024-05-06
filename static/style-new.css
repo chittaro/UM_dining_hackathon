@@ -1,0 +1,54 @@
+/* --- VARS --- */
+:root {
+    --mainBlue: rgb(63, 63, 129);
+    --darkBlue: rgb(34, 34, 82);
+    --lightBlue: rgb(119, 144, 198);
+    --mainYellow: rgb(218, 218, 175);
+    --darkGray: rgb(71, 71, 71);
+    --lightGray: rgb(146, 146, 146);
+}
+
+/* --- GENERAL --- */
+* {
+    font-family: "Ubuntu Sans", sans-serif;
+    font-size: 20px;
+}
+
+main {
+    margin: 30px;
+}
+
+/* --- NAV BAR --- */
+
+nav {
+    display: flex;
+    flex-direction: row;
+}
+
+nav a {
+    text-decoration: none;
+    color: rgb(67, 67, 67);
+}
+
+nav a:hover {
+    color: black;
+}
+
+nav li {
+    display: inline;
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+.active {
+    font-weight: 500;
+}
+
+/* --- FILTERING ---*/
+
+
+.filter {
+    display: flex;
+    flex-direction: row;
+    background-color: var(--lightBlue);
+}

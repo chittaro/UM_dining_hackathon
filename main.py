@@ -3,10 +3,13 @@ from scraping import *
 
 app = Flask(__name__)
 
-@app.route("/")
+@app.route("/", methods = ["GET", "POST"])
 def home():
-    
-    return render_template('index.html')
+    return render_template('home.html')
+
+@app.route("/graphs")
+def graphs():
+    return render_template('graphs.html')
 
 if __name__ == '__main__':
     app.run(debug = True)
