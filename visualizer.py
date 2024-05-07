@@ -22,7 +22,7 @@ NORM = mpl.colors.Normalize(1, 100)
 CMAP = mpl.colors.LinearSegmentedColormap.from_list("gr", ["r", "w", "g"], N = 100)
 
 def make_graph(vals: dict[str, float]):
-    '''Create a graph for a given food'''
+    '''Create a graph for a given food'''   
 
     # Create circular plot with given offset
     fig, ax = plt.subplots(figsize = (7.5, 7.5), subplot_kw = {"projection": "polar"})

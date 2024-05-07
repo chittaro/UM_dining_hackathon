@@ -1,5 +1,3 @@
-import numpy as np
-import pandas as pd
 from utils.soup import getSoup
 from utils.funcs import *
 

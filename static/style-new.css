@@ -19,7 +19,6 @@ main {
 }
 
 /* --- NAV BAR --- */
-
 nav {
     display: flex;
     flex-direction: row;
@@ -44,11 +43,54 @@ nav li {
     font-weight: 500;
 }
 
-/* --- FILTERING ---*/
-
-
-.filter {
+/* --- MENU FILTERING ---*/
+.filterDrops {
     display: flex;
     flex-direction: row;
     background-color: var(--lightBlue);
 }
+
+.filterDiv {
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+    margin: auto;
+    background-color: var(--lightGray);
+}
+
+.filterDiv *{
+    color: white;
+    text-align: center;
+}
+
+.menuItemDiv {
+    background-color: var(--darkBlue);
+    display: grid;
+    grid-template-columns: 1fr 1fr 2fr;
+    align-items: center;
+    justify-content: center;
+}
+
+.menuItemDiv:hover {
+    background-color: rgb(45, 45, 100);
+}
+
+.itemFacts {
+    background-color: black;
+    display: grid;
+    transition: max-height 0.2s ease-out;
+    max-height: 0;
+    overflow: hidden;
+}
+
+.menuItemDiv:after {
+    content: '\002B';
+    color: white;
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+  }
+
+.opened:after {
+    content: "\2212";
+  }

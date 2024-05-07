@@ -1,6 +1,5 @@
-from scrape import *
+from scrape import getDhallItems
 from utils.funcs import *
-import importlib
 import pandas as pd
 import os
 

@@ -5,33 +5,63 @@
 {% block body %}
     <h1>M-Healty NutriStats</h1>
 
-    <div class = "filter">
+    <div class = "filterDrops">
         <form class = "dropdowns" action = "#" method = "post">
             <label for = "hall">Select Dining Hall:</label>
             <select name = "hall">
-                <!-- <option value = "Any">Any</option> -->
-                <option value = "Bursley">Bursley</option>
-                <option value = "East Quad">East Quad</option>
-                <option value = "Markley">Markley</option>
-                <option value = "Mosher Jordan">Mosher Jordan</option>
-                <option value = "North Quad">North Quad</option>
-                <option value = "South Quad">South Quad</option>
-                <option value = "Twigs At Oxford">Twigs At Oxford</option>
+                <option value = "Any" {{'selected="selected"' if session["hall"] == "Any" else ''}}>Any</option>
+                <option value = "Bursley" {{'selected="selected"' if session["hall"] == "Bursley" else ''}}>Bursley</option>
+                <option value = "East Quad" {{'selected="selected"' if session["hall"] == "East Quad" else ''}}>East Quad</option>
+                <option value = "Markley" {{'selected="selected"' if session["hall"] == "Markley" else ''}}>Markley</option>
+                <option value = "Mosher Jordan" {{'selected="selected"' if session["hall"] == "Mosher Jordan" else ''}}>Mosher Jordan</option>
+                <option value = "North Quad" {{'selected="selected"' if session["hall"] == "North Quad" else ''}}>North Quad</option>
+                <option value = "South Quad" {{'selected="selected"' if session["hall"] == "South Quad" else ''}}>South Quad</option>
+                <option value = "Twigs At Oxford" {{'selected="selected"' if session["hall"] == "Twigs At Oxford" else ''}}>Twigs At Oxford</option>
                 
             </select>
 
             <label for = "meal">Select Meal:</label>
             <select name = "meal">
-                <!-- <option value = "Any">Any</option> -->
-                <option value = "Breakfast">Breakfast</option>
-                <option value = "Lunch">Lunch</option>
-                <option value = "Dinner">Dinner</option>
+                <option value = "Any" {{'selected="selected"' if session["meal"] == "Any" else ''}}>Any</option>
+                <option value = "Breakfast" {{'selected="selected"' if session["meal"] == "Breakfast" else ''}}>Breakfast</option>
+                <option value = "Lunch" {{'selected="selected"' if session["meal"] == "Lunch" else ''}}>Lunch</option>
+                <option value = "Dinner" {{'selected="selected"' if session["meal"] == "Dinner" else ''}}>Dinner</option>
             </select>
+
+            <label for = "filter">Filter By:</label>
+            <select name = "filter">
+                <!-- <option value = "DHealthy Score">DHealthy Score</option> -->
+                <option value = "Protein" {{'selected="selected"' if session["filter"] == "Protein" else ''}}>Protein</option>
+                <option value = "Sodium" {{'selected="selected"' if session["filter"] == "Sodium" else ''}}>Sodium</option>
+                <option value = "Sugars" {{'selected="selected"' if session["filter"] == "Sugars" else ''}}>Sugar</option>
+            </select>
+
+            <label for = "count">Items Shown:</label>
+            <input type = "text" name = "count" value = {{ session['count'] }}>
 
             <input type = "submit" value = "Get Items">
 
         </form>
 
     </div>
+
+    <div class = "filterDiv">
+
+        {% for row in session["menuItems"] %}
+            <div class = "menuItemDiv">
+                <p>{{row["Menu_Item"]}}</p>
+
+                <p>3.5</p>
+
+                <!-- use chart.js for bar chart graphic -->
+
+            </div>
+            <div class = "itemFacts">
+                <p>This is temp info1</p>
+                <p>Temp info 2</p>
+            </div>
+        {% endfor %}
+    </div>
+
 
 {% endblock %}
